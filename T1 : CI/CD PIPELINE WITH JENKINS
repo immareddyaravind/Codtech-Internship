@@ -1,0 +1,12 @@
+/ we need to add this code in jenkins in configure section or while creating the new item under pipeline section in it.
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+    }
+}
