@@ -7,6 +7,7 @@ MENTOR : G. SRAVANI
 
 
 OVER VIEW OF THE PROJECT
+
 Project Title:
 Jenkins Pipeline for CI/CD
 
@@ -38,6 +39,8 @@ Choose "Pipeline" and give your job a name.
 Click "OK" to create the job.
 Create a Jenkinsfile in the jenkins by adding the above code in the configure section.
 run the pipeline
+
+
 
 You will get the following output your pipeline has successfully executed in jenkins.
 
